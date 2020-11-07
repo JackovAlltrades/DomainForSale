@@ -10,8 +10,7 @@ Bael runs using [Nuxt.js](https://nuxtjs.org), [Vue.js](https://vuejs.org), [Net
 
 ## Deploy to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/JackovAlltrades
-/DomainForSale)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jake-101/bael-template))
 
 
 ## Build Setup
